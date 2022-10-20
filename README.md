@@ -4,3 +4,5 @@ This is the starter code for lab 6, see [Android University Course - Lab 6](http
 
 
 Check Point #1: Grace - Driver, Meghan - Navigator
+Check Point #2: Grace - Driver, Meghan - Navigator
+Check Point #3:Meghan - Driver, Grace - Navigator
